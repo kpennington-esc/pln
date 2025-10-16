@@ -60,7 +60,7 @@ link [notebook](tp_1/sol_1.ipynb)
 link [notebook](tp_2/sol_2.ipynb)
 
 ## Desafío 3: Modelo de Lenguaje con LSTM
-
+    the effect of the monstrous structure of the most distinguishable chambers and corridors of the town,
 ### Consigna
 1. Seleccionar corpus de texto para entrenar modelo de lenguaje
 2. Pre-procesamiento y tokenización adecuada
