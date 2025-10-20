@@ -99,5 +99,6 @@ las capas recurrentes.
 pre-entrenados para los dos idiomas; cambiar la
 estrategia de generación (por ejemplo muestreo
 aleatorio)
+
 link [notebook](tp_4/sol_4.ipynb)
 
