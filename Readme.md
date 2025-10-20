@@ -20,7 +20,9 @@ Carrera Especialización en Inteligencia Artificial - FIUBA
     - [Consigna](#consigna-2)
     - [Implementación](#implementación-2)
       - [Corpus y modelo](#corpus-y-modelo)
-
+  - [Desafío 4: Traductor Seq2Sq](#desafío-4-traductor-seq2seq)
+    - [Consigna](#consigna-3)
+    - [Implementación](#implementación-3)
 ## Introducción
 
 En este repositorio se encuentran los trabajos prácticos realizados durante la cursada de la materia Procesamiento de Lenguaje Natural (PLN) de la carrera de Especialización en Inteligencia Artificial de la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA). 
@@ -83,3 +85,19 @@ LSTMModel(
 )
 ```
 link [colab](https://colab.research.google.com/drive/1meDAQHS_HWxInT5mvWDeyB2OlSa25dBa#scrollTo=ltm5m-WCXsvp)
+
+## Desafío 4: Traductor Seq2Seq
+### Consigna
+Replicar y extender el traductor:
+- Replicar el modelo en PyTorch.
+- Extender el entrenamiento a más datos y tamaños de
+secuencias mayores.
+- Explorar el impacto de la cantidad de neuronas en
+las capas recurrentes.
+- Mostrar 5 ejemplos de traducciones generadas.
+- Extras que se pueden probar: Embeddings
+pre-entrenados para los dos idiomas; cambiar la
+estrategia de generación (por ejemplo muestreo
+aleatorio)
+link [notebook](tp_4/sol_4.ipynb)
+
