@@ -100,5 +100,15 @@ pre-entrenados para los dos idiomas; cambiar la
 estrategia de generación (por ejemplo muestreo
 aleatorio)
 
+### Implementacion
+- Se realizaron algunos cambios para que la notebook de pytorch pudiera correr sin problemas
+- Se observo que con el dataset incompleto el desempeño del traductor no era bueno
+- Se modificaron algunos aspectos para poder cargar el dataset completo en la RAM
+- Se modifico el modelo para que, con el dataset completo, se pudiera entrenar en un tiempo razonable
+- Se redujo el tiempo de entrenamiento, de horas por epoch a ~10 minutos en CPU o ~1 minuto con GPU (colab)
+- El desempeño es un poco mejor, pero evidentemente el modelo necesita ajustes todavia
+
 link [notebook](tp_4/sol_4.ipynb)
+link [colab](https://colab.research.google.com/drive/13wgh81LArRZvcfpUjQzXMkkhIvAmgDUV#scrollTo=MlUyp9M6ua2V) <- GPU
+
 
