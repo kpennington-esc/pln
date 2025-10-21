@@ -109,6 +109,7 @@ aleatorio)
 - El desempeño es un poco mejor, pero evidentemente el modelo necesita ajustes todavia
 
 link [notebook](tp_4/sol_4.ipynb)
+
 link [colab](https://colab.research.google.com/drive/13wgh81LArRZvcfpUjQzXMkkhIvAmgDUV#scrollTo=MlUyp9M6ua2V) <- GPU
 
 
